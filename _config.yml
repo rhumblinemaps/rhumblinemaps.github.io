@@ -1,3 +1,27 @@
-theme: jekyll-theme-cayman
-title: All things geography!
-description: Vincent Falardeau
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Rhumbline Maps
+tagline:          'Rhumbline Maps'
+description:      'Rhumbline web cartography, programming, and projects-in-development.'
+url:              https://rhumblinemaps.github.io/
+baseurl:           https://rhumblinemaps.github.io/
+
+author:
+  name:           'Vincent Falardeau'
+  url:            https://vinfalardeau.github.io/
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/rhumblinemaps
+
+theme: jekyll-theme-minimal
