@@ -53,15 +53,15 @@ var config = {
             image: './path/to/image/source.png',
             description: 'Copy these sections to add to your story.',
             location: {
-                center: [-77.020636, 38.886900],
-                zoom: 8.5,
-                pitch: 60,
-                bearing: -43.2,
+                center: [-97.16936, 26.22568],
+                zoom: 10.80,
+                pitch: 58.00,
+                bearing: -61.60,
                 // flyTo additional controls-
                 // These options control the flight curve, making it move
                 // slowly and zoom out almost completely before starting
                 // to pan.
-                //speed: 2, // make the flying slow
+                speed: 2, // make the flying slow
                 //curve: 1, // change the speed at which it zooms out
             },
             mapAnimation: 'flyTo',
@@ -78,10 +78,10 @@ var config = {
             image: './path/to/image/source.png',
             description: 'Copy these sections to add to your story.',
             location: {
-                center: [6.15116, 46.20595],
-                zoom: 12.52,
-                pitch: 8.01,
-                bearing: 0.00
+                center: [-97.37563, 26.79609],
+                zoom: 10.33,
+                pitch: 57.56,
+                bearing: -28.00
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
@@ -97,10 +97,10 @@ var config = {
             image: './path/to/image/source.png',
             description: 'Copy these sections to add to your story.',
             location: {
-                center: [-58.54195, -34.71600],
-                zoom: 4,
-                pitch: 0,
-                bearing: 0
+                center: [-97.27576, 27.42893],
+                zoom: 11.54,
+                pitch: 55.42,
+                bearing: -7.20
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
