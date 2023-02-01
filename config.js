@@ -69,8 +69,8 @@ var config = {
             callback: '',
             onChapterEnter: [
                 {
-                    layer: 'peony-8hh8nc',
-                    opacity: 0.5
+                    layer: 'reddishegret-b9o8cx',
+                    opacity: 1
                 }
             ],
             onChapterExit: []
