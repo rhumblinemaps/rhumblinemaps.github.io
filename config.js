@@ -49,7 +49,7 @@ var config = {
             id: 'second-identifier',
             alignment: 'right',
             hidden: false,
-            title: 'Second Title',
+            title: 'Laguna Madre',
             image: './path/to/image/source.png',
             description: 'Copy these sections to add to your story.',
             location: {
@@ -67,14 +67,19 @@ var config = {
             mapAnimation: 'flyTo',
             rotateAnimation: true,
             callback: '',
-            onChapterEnter: [],
+            onChapterEnter: [
+                {
+                    layer: 'peony-8hh8nc',
+                    opacity: 0.5
+                }
+            ],
             onChapterExit: []
         },
         {
             id: 'third-identifier',
             alignment: 'left',
             hidden: false,
-            title: 'Third Title',
+            title: 'Green Island',
             image: './path/to/image/source.png',
             description: 'Copy these sections to add to your story.',
             location: {
