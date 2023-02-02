@@ -50,8 +50,8 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Laguna Madre',
-            image: './path/to/image/source.png',
-            description: 'Copy these sections to add to your story.',
+            image: './assets/images/egret.jpg',
+            description: 'An ecosystem rich in biodiversity at the southern end of the Texas coast.',
             location: {
                 center: [-97.16936, 26.22568],
                 zoom: 10.80,
@@ -80,13 +80,13 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Green Island',
-            image: './path/to/image/source.png',
-            description: 'Copy these sections to add to your story.',
+            image: './assets/images/green.jpg',
+            description: 'An important island for the reddish egret, with upwards of two thousand pairs.',
             location: {
-                center: { lon: -97.31536, lat: 26.39031 },
-                zoom: 13.88,
-                pitch: 49.00,
-                bearing: -40.00
+                center: { lon: -97.32465, lat: 26.39116 },
+                zoom: 16.26,
+                pitch: 37.00,
+                bearing: -33.60
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
@@ -96,16 +96,16 @@ var config = {
         },
         {
             id: 'fourth-chapter',
-            alignment: 'fully',
+            alignment: 'left',
             hidden: false,
-            title: 'Third Title',
-            image: './path/to/image/source.png',
-            description: 'Copy these sections to add to your story.',
+            title: 'Chester Island',
+            image: './assets/images/pelican.jpg',
+            description: 'Chester Island provides crucial brown pelican nesting habitat; the islaand was a site of Audubon-managed pelican recovery, led by coastal warden Chester Smith.',
             location: {
-                center: [-97.27576, 27.42893],
-                zoom: 11.54,
-                pitch: 55.42,
-                bearing: -7.20
+                center: { lon: -96.35208, lat: 28.44282 },
+                zoom: 13.67,
+                pitch: 49.50,
+                bearing: -1.31
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
