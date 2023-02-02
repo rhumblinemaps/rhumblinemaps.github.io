@@ -80,7 +80,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Green Island',
-            image: './assets/images/Screenshot 2023-02-02 090912.png',
+            image: './assets/images/ReddishEgret_ChezyYusuf.jpg',
             description: 'An important island for the reddish egret, with upwards of two thousand pairs.',
             location: {
                 center: { lon: -97.32465, lat: 26.39116 },
