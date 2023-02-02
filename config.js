@@ -50,7 +50,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Laguna Madre',
-            image: './assets/images/egret.jpg',
+            image: './assets/images/ReddishEgret_RebeccaField.jpg',
             description: 'An ecosystem rich in biodiversity at the southern end of the Texas coast.',
             location: {
                 center: [-97.16936, 26.22568],
@@ -80,7 +80,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Green Island',
-            image: './assets/images/green.jpg',
+            image: './assets/images/Screenshot 2023-02-02 090912.png',
             description: 'An important island for the reddish egret, with upwards of two thousand pairs.',
             location: {
                 center: { lon: -97.32465, lat: 26.39116 },
@@ -99,7 +99,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Chester Island',
-            image: './assets/images/pelican.jpg',
+            image: './assets/images/brownpel.jpg',
             description: 'Chester Island provides crucial brown pelican nesting habitat; the islaand was a site of Audubon-managed pelican recovery, led by coastal warden Chester Smith.',
             location: {
                 center: { lon: -96.35208, lat: 28.44282 },
