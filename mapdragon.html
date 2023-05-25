@@ -1,0 +1,18 @@
+<div id="example-inline-configuration-for-image"
+         class="openseadragon">
+        <script type="text/javascript">
+            OpenSeadragon({
+                id:            "example-inline-configuration-for-image",
+                prefixUrl:     "/images/",
+                tileSources:   {
+                    type: 'image',
+                    url:  '/test.jpg'
+                }
+            });
+        </script>
+        <noscript>
+            <p>OpenSeadragon is not available unless JavaScript is enabled.</p>
+            <img src='/test.jpg'
+                 height='600'/>
+        </noscript>
+    </div>
